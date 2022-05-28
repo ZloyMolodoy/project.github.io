@@ -68,11 +68,19 @@
     height: 2px;
     background-color: coral;
 }
+.head-image 
+{
+    display: flex;
+    justify-content: center;
+    font-size: 90px;
+    padding: 20px 0;
+}
 .body-card-text
 {
     font-size: 22px;
     text-align: center;
 }
+
 .footer
 {
     margin-top: 20px;
